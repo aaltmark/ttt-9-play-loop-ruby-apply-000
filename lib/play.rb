@@ -36,6 +36,6 @@ def turn(board)
 end
 
 def play(board)
-  until turn("X", "X", "X", "X", "X", "X", "X", "X", "X")
+  until turn(9)
   end  
   end
